@@ -28,7 +28,7 @@ const Hero = () => {
 
         {/* Name */}
         <h1 className="animate-fade-up text-4xl md:text-6xl lg:text-7xl font-bold mb-4 tracking-tight">
-          <span className="text-gradient">My Portfolio</span>
+          <span className="text-gradient">Nash Henley</span>
         </h1>
 
         {/* Tagline */}
